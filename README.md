@@ -52,3 +52,4 @@ Python API and Webscrapping Documentation
 1. [Extracting Stock Data Using a Python Library](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/b273c36914204ba7bd3c37356459220666cbb953/Final_Assignment_Library.ipynb)
 2. [Extracting Stock Data Using a Web Scraping](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/b273c36914204ba7bd3c37356459220666cbb953/Final%20Assignment_Webscraping.ipynb)
 3. [Python Project for Data Science-Final Assignment](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/b273c36914204ba7bd3c37356459220666cbb953/Coursera%20Python%20Project%20for%20Data%20Science-Final%20Assignment.ipynb)
+4. [Collecting Job Data Using API](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/d6b4b0e7a93cf40cc7b57407b5f4d72a4fae717a/Collecting_job_data_using_APIs_Lab.ipynb)
